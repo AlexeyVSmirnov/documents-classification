@@ -8,6 +8,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-f2f2f2?style=for-the-badge)
+![mystem](https://img.shields.io/badge/mystem-e61e00?style=for-the-badge)
 
 ## Описание задачи
 В процессе импорта новых документов в информационную систему компании нужно однозначно определить тип загружаемого документа. Если однозначно определить тип документа не получается, то импорт этого документа должен быть прерван и должно сформироваться сообщение об ошибке. В информационной системе уже есть некоторый список документов с соответствующими типами. Требуется по имеющемуся списку документов создать функционал, позволяющий однозначно определить тип импортируемого документа.
